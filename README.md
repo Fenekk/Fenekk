@@ -9,10 +9,6 @@
   <img src="https://zupimages.net/up/21/22/oe6x.gif">
   <br>
   <br>
-  <br>
-  <br>
-  <a href="https://youtube.com/c/billythegoat356/">📺 Ma chaîne YouTube 📺</a>
-  <br>
   <a href="https://discord.gg/rdt/">💬 Mon serveur Discord | discord.gg/rdt 💬</a>
   <br>
 </p>
@@ -60,9 +56,9 @@
 ### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <br>
 <p align="center">
-<a href="https://github.com/billythegoat356">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=billythegoat356&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billythegoat356&layout=compact&langs_count=8&theme=react&locale=fr"/>
+<a href="https://github.com/Fenekk">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fenekk&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fenekk&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </a>
   
 </p>
@@ -72,7 +68,7 @@
 ### <p align="center">👀 &nbsp;Visiteurs</p>
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/billythegoat356/count.svg" />
+  <img src="https://profile-counter.glitch.me/Fenekk/count.svg" />
 </p>
 <br>
 
