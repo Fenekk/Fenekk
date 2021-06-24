@@ -44,21 +44,11 @@
 </p>
 
 -----
-### <p align="center">📞 &nbsp;Contact</p>
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/791395106615721985.png">
-  <br>
-  billythegoat356356@gmail.com
-</p>
-
-
------
 ### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <br>
 <p align="center">
 <a href="https://github.com/Fenekk">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fenekk&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fenekk&layout=compact&langs_count=8&theme=react&locale=fr"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fenekk&show_icons=true&theme=react&include_all_commits=true"/>
 </a>
   
 </p>
